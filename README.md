@@ -22,7 +22,7 @@ This project was developed as part of **Internship Task 02 (Alternative)** to pr
 ---
 
 ## 🌐 Live Demo
-🔗 Live Preview: https://your-live-link-here
+🔗 Live Preview:https://codedbydivya.github.io/SCT_WD_2_Alternative/
 
 ## 📂 Project Structure
 
